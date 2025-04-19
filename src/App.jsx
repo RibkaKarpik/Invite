@@ -170,7 +170,7 @@ function WeddingInvitation() {
           <div class="block">
             <div class="block1-top">
               <div class="block1-left animate-child">
-                <p class="child-question">Интересно, кто будет моим мужем, когда я выросту?</p>
+                <p class="child-question">Интересно, кто будет моим мужем, когда я вырасту?</p>
                 <div class="photo-card">
                   <img src={girl} />
                   <p>Лиза, 4 года</p>
